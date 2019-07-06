@@ -7,7 +7,7 @@ The purpose of this project is to calculate *z[m]* coordinate of the bob and its
 
 What is more, kinetic and potential energies of the bob are calculated in every iteration of the program and then added to prove that the total energy of the bob is constant.
 
-*a*, *k<sub>1</sub>*, *k<sub>2</sub>*, *M* parameters of the system are defined by the user at the start of the program. The results are written to 'data.txt' file e.g. for their later use and ease of data manipulation in Excel. The program contain MS specific secure versions of functions such as scanf_s() instead of scanf() that appeased older versions of Visual Studio.
+*a*, *k<sub>1</sub>*, *k<sub>2</sub>*, *M* parameters of the system are defined by the user at the start of the program. The results are written to 'data.txt' file e.g. for their later use and ease of data manipulation in Excel. The program contains MS specific secure versions of functions such as scanf_s() instead of scanf() that appeased older versions of Visual Studio.
 
 The code and results were reviewed by university professor and the project got the highest possible mark.
 
